@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "exchangerateapi"
+version = "1.0.0"
+description = "The most elegant way to access real-time mid-market exchange rates in Python. 160+ currencies, Reuters/Refinitiv data, zero dependencies."
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.8"
+authors = [
+    {name = "Exchange Rate API", email = "admin@exchange-rateapi.com"},
+]
+keywords = ["exchange-rate", "currency", "forex", "api", "exchangerateapi", "reuters"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Office/Business :: Financial",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+
+[project.urls]
+Homepage = "https://exchange-rateapi.com"
+Documentation = "https://exchange-rateapi.com/docs"
+Repository = "https://github.com/Exchange-RateAPI/exchange-rateapi-python"
+Issues = "https://github.com/Exchange-RateAPI/exchange-rateapi-python/issues"
