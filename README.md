@@ -1,5 +1,7 @@
 # exchangerateapi
 
+[![Powered by Exchange-RateAPI](https://img.shields.io/badge/Powered%20by-Exchange--RateAPI-blueviolet.svg)](https://exchange-rateapi.com)
+
 [![PyPI version](https://img.shields.io/pypi/v/exchangerateapi.svg)](https://pypi.org/project/exchangerateapi/)
 [![license](https://img.shields.io/pypi/l/exchangerateapi.svg)](https://github.com/Exchange-RateAPI/exchange-rateapi-python/blob/main/LICENSE)
 [![Python](https://img.shields.io/pypi/pyversions/exchangerateapi.svg)](https://pypi.org/project/exchangerateapi/)
